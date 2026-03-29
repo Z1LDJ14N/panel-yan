@@ -1,0 +1,1 @@
+{ "name": "backend", "version": "1.0.0", "scripts": { "start": "node api/index.js" }, "dependencies": { "express": "^4.17.1", "multer": "^1.4.2" } }
