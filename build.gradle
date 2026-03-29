@@ -1,0 +1,4 @@
+// Build configuration here
+apply plugin: 'com.android.application'
+android { compileSdkVersion 30 }
+dependencies { /* Your dependencies here */ }
